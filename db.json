@@ -1,0 +1,79 @@
+{
+  "historicoDeCambios": [
+    {
+      "id": 0,
+      "_id": {
+        "$oid": "60341253ee0cc10b908461b0"
+      },
+      "Identificador": "5cebf255c1b25317c06a436e",
+      "Usuario": "performance@navent.com",
+      "Fecha": {
+        "$date": "2021-02-22T20:21:39.122Z"
+      },
+      "Modulo": "CAMPAÑAS",
+      "Nombre": "Smartly_AR_Desa",
+      "ABM": "Modificación",
+      "Detalle": "[]"
+    },
+    {
+      "id": 1,
+      "_id": {
+        "$oid": "60341914ee0cc10b9084da35"
+      },
+      "Identificador": "60341914ee0cc10b9084da34",
+      "Usuario": "frtomaz@navent.com",
+      "Fecha": {
+        "$date": "2021-02-22T20:50:28.578Z"
+      },
+      "Modulo": "PROCESOS",
+      "Nombre": "Smartly_ZP_new",
+      "ABM": "Alta",
+      "Detalle": "Nombre Proceso: Smartly_ZP_new, Nombre Campaña: Smartly_AR_Desa"
+    },
+    {
+      "id": 2,
+      "_id": {
+        "$oid": "6035195f07b1dc04e4c0f6a4"
+      },
+      "Identificador": "5e21fa7fdae74c1b3c263153",
+      "Usuario": "performance@navent.com",
+      "Fecha": {
+        "$date": "2021-02-23T15:03:59.972Z"
+      },
+      "Modulo": "DESCARGA XML",
+      "Nombre": "Perú URB",
+      "ABM": "Descarga Manual",
+      "Detalle": "{\r\n  \"Id\": \"5e21fa7fdae74c1b3c263153\",\r\n  \"Identificador\": \"5e21fa7fdae74c1b3c263153\",\r\n  \"Pais\": {\r\n    \"Nombre\": \"Perú URB\",\r\n    \"Abrev\": \"PEURB\",\r\n    \"Color\": \"btn-info\",\r\n    \"Orden\": 8,\r\n    \"Identificador\": \"\",\r\n    \"XmlUrl\": \"http://feeds.navent.com/zpar/NavplatRE_111.xml\",\r\n    \"CronExpression\": \"46 3 * * *\"\r\n  },\r\n  \"PaisAbrev\": \"PEURB\",\r\n  \"FechaInicioDescarga\": \"2021-02-23T14:39:00.37Z\",\r\n  \"FechaFinDescarga\": \"2021-02-23T14:40:49.036Z\",\r\n  \"Correctos\": 50,\r\n  \"Fallidos\": 0,\r\n  \"Insertados\": 22762,\r\n  \"NoInsertados\": 0\r\n}"
+    },
+    {
+      "id": 3,
+      "_id": {
+        "$oid": "6035196407b1dc04e4c0f6a7"
+      },
+      "Identificador": "5e21fa7fdae74c1b3c263153",
+      "Usuario": "performance@navent.com",
+      "Fecha": {
+        "$date": "2021-02-23T15:04:04.870Z"
+      },
+      "Modulo": "DESCARGA XML",
+      "Nombre": "Perú URB",
+      "ABM": "Descarga Manual",
+      "Detalle": "{\r\n  \"Id\": \"5e21fa7fdae74c1b3c263153\",\r\n  \"Identificador\": \"5e21fa7fdae74c1b3c263153\",\r\n  \"Pais\": {\r\n    \"Nombre\": \"Perú URB\",\r\n    \"Abrev\": \"PEURB\",\r\n    \"Color\": \"btn-info\",\r\n    \"Orden\": 8,\r\n    \"Identificador\": \"\",\r\n    \"XmlUrl\": \"http://feeds.navent.com/zpar/NavplatRE_111.xml\",\r\n    \"CronExpression\": \"46 3 * * *\"\r\n  },\r\n  \"PaisAbrev\": \"PEURB\",\r\n  \"FechaInicioDescarga\": \"2021-02-23T14:39:00.37Z\",\r\n  \"FechaFinDescarga\": \"2021-02-23T14:40:49.036Z\",\r\n  \"Correctos\": 50,\r\n  \"Fallidos\": 0,\r\n  \"Insertados\": 22762,\r\n  \"NoInsertados\": 0\r\n}"
+    },
+    {
+      "id": 4,
+      "_id": {
+        "$oid": "6035196907b1dc04e4c10c69"
+      },
+      "Identificador": "5e21fa7fdae74c1b3c263153",
+      "Usuario": "performance@navent.com",
+      "Fecha": {
+        "$date": "2021-02-23T15:04:09.635Z"
+      },
+      "Modulo": "DESCARGA XML",
+      "Nombre": "Perú URB",
+      "ABM": "Descarga Manual",
+      "Detalle": "{\r\n  \"Id\": \"5e21fa7fdae74c1b3c263153\",\r\n  \"Identificador\": \"5e21fa7fdae74c1b3c263153\",\r\n  \"Pais\": {\r\n    \"Nombre\": \"Perú URB\",\r\n    \"Abrev\": \"PEURB\",\r\n    \"Color\": \"btn-info\",\r\n    \"Orden\": 8,\r\n    \"Identificador\": \"\",\r\n    \"XmlUrl\": \"http://feeds.navent.com/zpar/NavplatRE_111.xml\",\r\n    \"CronExpression\": \"46 3 * * *\"\r\n  },\r\n  \"PaisAbrev\": \"PEURB\",\r\n  \"FechaInicioDescarga\": \"2021-02-23T14:39:00.37Z\",\r\n  \"FechaFinDescarga\": \"2021-02-23T14:40:49.036Z\",\r\n  \"Correctos\": 50,\r\n  \"Fallidos\": 0,\r\n  \"Insertados\": 22762,\r\n  \"NoInsertados\": 0\r\n}"
+    }
+  ]
+}
